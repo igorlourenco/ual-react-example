@@ -12,10 +12,12 @@
     "Mike Manfredi"
   ],
   "dependencies": {
-    "ual-reactjs-renderer": "0.1.6",
     "authenticator": "file:../authenticator",
     "react": "16.8.3",
-    "react-dom": "16.8.3"
+    "react-dom": "16.8.3",
+    "ual-ledger": "^0.3.0",
+    "ual-reactjs-renderer": "0.1.6",
+    "ual-wax": "^1.1.0"
   },
   "devDependencies": {
     "react-scripts": "3.1.1"
